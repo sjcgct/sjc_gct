@@ -1,0 +1,8 @@
+{
+    "name": "sjc_gct",
+    "version": "1.0.0",
+    "scripts": {
+      "start": "cd backend && npm install &&strapi start && cd -",
+      "start server": ""   
+    }
+  }
