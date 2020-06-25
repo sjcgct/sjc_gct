@@ -2,7 +2,7 @@
     "name": "sjc_gct",
     "version": "1.0.0",
     "scripts": {
-      "start": "cd backend && npm install &&strapi start && cd -",
-      "start server": ""   
+      "start":"cd frontend && npm install &&gatsby develop" ,
+      "end": "cd backend && npm install &&strapi start && cd -" 
     }
   }
